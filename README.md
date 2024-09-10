@@ -2,10 +2,9 @@
 
 Matrixify is a simple and functional template for implementing the Matrix digital rain effect. It can be easily integrated into websites or applications, providing a classic cyberpunk aesthetic.
 
-## Screenshot
-<p align="center">
-  <img src="matrixify.jpeg">
-</p>
+## Preview
+![Matrix Digital Rain Effect](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR0MmU2d2xidW9vZWh6YWQ4cmE1MWxlaHQ5MTAzOGltdXVwZGs0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2E618gfHfe3n08Vgmh/giphy.gif)
+
 
 ## Features
 - Matrix digital rain effect
